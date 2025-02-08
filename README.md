@@ -23,10 +23,10 @@ every single element every iteration, $n * n$ or $n^2$. The remainder of the cod
 essentially runs in constant time, which we can ignore in asymptotic analysis. The
 $\Theta$ bound for worst case scenario would therefore be $\Theta(n^2 log(n))$. 
 
-## Sources and Plagarism 
+## Sources and Plagiarism 
 Sources: 
-https://interviewkickstart.com/blogs/learn/iterative-merge-sort
+https://interviewkickstart.com/blogs/learn/iterative-merge-sort, for looping through the array 
 
-https://www.geeksforgeeks.org/in-place-merge-sort/  
+https://www.geeksforgeeks.org/in-place-merge-sort/, for switching the array elements without overwriting them 
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
