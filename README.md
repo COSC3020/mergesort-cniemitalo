@@ -25,6 +25,7 @@ $\Theta$ bound for worst case scenario would therefore be $\Theta(n^2 log(n))$.
 
 ## Sources and Plagiarism 
 Sources: 
+
 https://interviewkickstart.com/blogs/learn/iterative-merge-sort, for looping through the array 
 
 https://www.geeksforgeeks.org/in-place-merge-sort/, for switching the array elements without overwriting them 
