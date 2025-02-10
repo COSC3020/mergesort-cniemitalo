@@ -1,0 +1,12 @@
+{
+  "name": "mergesort-cniemitalo",
+  "version": "1.0.0",
+  "description": "Implement an iterative (no recursive calls) and in-place version of mergesort. Use the template I've provided in `code.js`. Test your new function; I've provided some basic testing code that uses [jsverify](https://jsverify.github.io/) in `code.test.js`.",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
