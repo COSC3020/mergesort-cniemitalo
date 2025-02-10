@@ -32,7 +32,7 @@ function mergesort(array) {
                         array[index] = array[index - 1]; 
                         index--; 
                     }
-                    //place the previous value in correct positon
+                    //place the previous value in correct position
                     array[first] = tmp; 
                     //increment all values to compare next element or end loop 
                     first++; 
@@ -44,5 +44,3 @@ function mergesort(array) {
     }
     return array; 
 }
-
-console.log(mergesort([91, 1, 2, 332, 11])); 
